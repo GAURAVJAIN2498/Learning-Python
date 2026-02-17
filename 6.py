@@ -3,13 +3,11 @@
 # print(y/x)  #shorthand operation
 # print(y//x) #floor division
 
-
-
 # page = 1
 # while page >= 1 and page <= 15:
 #     if page == 5:
 #      print("skipping page 5")
-     
+    
 #     else:        
 #         print("processing page")  
 #     page += 1
