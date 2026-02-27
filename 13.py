@@ -15,9 +15,9 @@ english = 70
 history = 80
 school_conditions = [
     math > 70,
-    science > 80,   
-    english > 60,   
-    history > 50
+    science > 70,   
+    english > 70,   
+    history > 70
 ]
 if all(school_conditions):    #and operator kind of work karta hai, all() function sabhi conditions ko check karta hai aur agar sabhi conditions true hain to hi true return karta hai
     print("You are eligible")
